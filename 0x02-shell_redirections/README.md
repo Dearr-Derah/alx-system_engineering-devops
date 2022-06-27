@@ -23,3 +23,4 @@ Write a shell script that creates a file named exactly
 Create a script that displays the 10 newest files in the current directory
 Display all the lines in the file /etc/passwd that do not contain the pattern bin
 Write a command that finds all empty files and directories in the current directory and all sub-directories
+Write a script that lists all the files with a .gif extension in the current directory and all its sub-directories
